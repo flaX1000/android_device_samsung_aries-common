@@ -14,20 +14,34 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="mdnie_entries">
+        <item>Wyłączony</item>
+        <item>UI</item>
+        <item>Wideo</item>
+        <item>Ciepły film</item>
+        <item>Zimny film</item>
+        <item>Kamera</item>
+    </string-array>
+
     <string-array name="backlight_timeout_entries">
-        <item>預設（1.6秒）</item>
-        <item>0.5秒</item>
-        <item>2秒</item>
-        <item>5秒</item>
-        <item>10秒</item>
-        <item>15秒</item>
-        <item>30秒</item>
-        <item>永不</item>
+        <item>Domyślnie (1.6 sekundy)</item>
+        <item>0.5 sekundy</item>
+        <item>2 sekundy</item>
+        <item>5 sekund</item>
+        <item>10 sekund</item>
+        <item>15 sekund</item>
+        <item>30 sekund</item>
+        <item>Nigdy</item>
     </string-array>
 
     <string-array name="hspa_entries">
-        <item>僅 UMTS</item>
-        <item>僅 HSDPA</item>
-        <item>HSDPA＋HSUPA</item>
+        <item>Tylko UMTS</item>
+        <item>Tylko HSDPA</item>
+        <item>HSDPA + HSUPA</item>
+    </string-array>
+
+    <string-array name="tvout_system_entries">
+        <item>NTSC</item>
+        <item>PAL</item>
     </string-array>
 </resources>
